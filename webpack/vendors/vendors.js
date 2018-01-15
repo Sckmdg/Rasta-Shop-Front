@@ -1,0 +1,14 @@
+require('babel-polyfill');
+require('axios');
+require('classnames');
+require('immutable');
+require('prop-types');
+require('react');
+require('react-dom');
+require('react-redux');
+require('react-router');
+require('react-router-redux');
+require('redux');
+require('redux-actions');
+require('redux-immutable');
+require('redux-promise-middleware');

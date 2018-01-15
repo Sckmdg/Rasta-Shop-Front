@@ -1,0 +1,49 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.space-bettwen {
+    justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+
+.mbottom-20 {
+    margin-bottom: 20px;
+}
+
+.max-w1200 {
+    max-width: 1200px;
+}
+
+.left {
+  float: left;
+}
+
+.full {
+  width: 100%;
+}
+
+.non-display {
+  display: none;
+}
+
+.mtop-20 {
+  margin-top: 20px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.overflow-visible {
+    overflow: visible;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
